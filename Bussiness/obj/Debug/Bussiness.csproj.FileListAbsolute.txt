@@ -1,0 +1,5 @@
+D:\University\Simulation\tasks\First Lab\WindowsFormsApplication1\Bussiness\bin\Debug\Bussiness.dll
+D:\University\Simulation\tasks\First Lab\WindowsFormsApplication1\Bussiness\bin\Debug\Bussiness.pdb
+D:\University\Simulation\tasks\First Lab\WindowsFormsApplication1\Bussiness\obj\Debug\Bussiness.csprojResolveAssemblyReference.cache
+D:\University\Simulation\tasks\First Lab\WindowsFormsApplication1\Bussiness\obj\Debug\Bussiness.dll
+D:\University\Simulation\tasks\First Lab\WindowsFormsApplication1\Bussiness\obj\Debug\Bussiness.pdb

@@ -1,0 +1,25 @@
+D:\University\Simulation\tasks\First Lab\WindowsFormsApplication1\Bussiness\obj\Debug\Business.csprojResolveAssemblyReference.cache
+D:\University\Simulation\tasks\First Lab\WindowsFormsApplication1\Bussiness\obj\Debug\Bussiness.dll
+D:\University\Simulation\tasks\First Lab\WindowsFormsApplication1\Bussiness\obj\Debug\Bussiness.pdb
+D:\University\Simulation\tasks\First Lab\WindowsFormsApplication1\Bussiness\bin\Debug\Bussiness.dll
+D:\University\Simulation\tasks\First Lab\WindowsFormsApplication1\Bussiness\bin\Debug\Bussiness.pdb
+E:\FCIS\Senior year\1st term\Stimulation & modelling\WindowsFormsApplication1\Bussiness\bin\Debug\Bussiness.dll
+E:\FCIS\Senior year\1st term\Stimulation & modelling\WindowsFormsApplication1\Bussiness\bin\Debug\Bussiness.pdb
+E:\FCIS\Senior year\1st term\Stimulation & modelling\WindowsFormsApplication1\Bussiness\obj\Debug\Business.csprojResolveAssemblyReference.cache
+E:\FCIS\Senior year\1st term\Stimulation & modelling\WindowsFormsApplication1\Bussiness\obj\Debug\Bussiness.dll
+E:\FCIS\Senior year\1st term\Stimulation & modelling\WindowsFormsApplication1\Bussiness\obj\Debug\Bussiness.pdb
+C:\Users\Dendesha\Desktop\WindowsFormsApplication1\Bussiness\bin\Debug\Bussiness.dll
+C:\Users\Dendesha\Desktop\WindowsFormsApplication1\Bussiness\bin\Debug\Bussiness.pdb
+C:\Users\Dendesha\Desktop\WindowsFormsApplication1\Bussiness\obj\Debug\Business.csprojResolveAssemblyReference.cache
+C:\Users\Dendesha\Desktop\WindowsFormsApplication1\Bussiness\obj\Debug\Bussiness.dll
+C:\Users\Dendesha\Desktop\WindowsFormsApplication1\Bussiness\obj\Debug\Bussiness.pdb
+C:\Users\Dendesha\Desktop\WindowsFormsApplication1-preFinal\WindowsFormsApplication1\Bussiness\bin\Debug\Bussiness.dll
+C:\Users\Dendesha\Desktop\WindowsFormsApplication1-preFinal\WindowsFormsApplication1\Bussiness\bin\Debug\Bussiness.pdb
+C:\Users\Dendesha\Desktop\WindowsFormsApplication1-preFinal\WindowsFormsApplication1\Bussiness\obj\Debug\Business.csprojResolveAssemblyReference.cache
+C:\Users\Dendesha\Desktop\WindowsFormsApplication1-preFinal\WindowsFormsApplication1\Bussiness\obj\Debug\Bussiness.dll
+C:\Users\Dendesha\Desktop\WindowsFormsApplication1-preFinal\WindowsFormsApplication1\Bussiness\obj\Debug\Bussiness.pdb
+C:\Users\Islam\Downloads\WindowsFormsApplication1-preFinal\WindowsFormsApplication1-preFinal\WindowsFormsApplication1\Bussiness\bin\Debug\Bussiness.dll
+C:\Users\Islam\Downloads\WindowsFormsApplication1-preFinal\WindowsFormsApplication1-preFinal\WindowsFormsApplication1\Bussiness\bin\Debug\Bussiness.pdb
+C:\Users\Islam\Downloads\WindowsFormsApplication1-preFinal\WindowsFormsApplication1-preFinal\WindowsFormsApplication1\Bussiness\obj\Debug\Business.csprojResolveAssemblyReference.cache
+C:\Users\Islam\Downloads\WindowsFormsApplication1-preFinal\WindowsFormsApplication1-preFinal\WindowsFormsApplication1\Bussiness\obj\Debug\Bussiness.dll
+C:\Users\Islam\Downloads\WindowsFormsApplication1-preFinal\WindowsFormsApplication1-preFinal\WindowsFormsApplication1\Bussiness\obj\Debug\Bussiness.pdb
